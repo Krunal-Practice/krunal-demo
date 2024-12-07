@@ -1,3 +1,4 @@
 # krunal-demo
 This is My First Repository
-Krunal Parmar
+<br>
+Author-Krunal Parmar
